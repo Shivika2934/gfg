@@ -1,6 +1,6 @@
 {
-  "short_name": "GFG Amity Noida",
-  "name": "GeeksForGeeks Amity Chapter Noida",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
